@@ -10,6 +10,7 @@ I'm Abdul Wasay, a passionate web developer with a keen interest in AI and Pytho
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdul-wasay-a47a722b5/) or [Email](wasay0074@gmail.com).
 - ⚡ Fun fact: I love **building projects that solve real-world problems**!
 
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulWasay&label=Profile%20Views&color=blue&style=flat)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AbdulWasay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul5928) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdulWasay) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@abdulwasay6514) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasay0074@gmail.com) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/wasay161)
